@@ -1,0 +1,10 @@
+C:\Users\astrumwolfe\Documents\GitHub\FineRGRWinforms\FineRGRWinforms\bin\Debug\FineRGRWinforms.exe.config
+C:\Users\astrumwolfe\Documents\GitHub\FineRGRWinforms\FineRGRWinforms\bin\Debug\ECGfile.mdb
+C:\Users\astrumwolfe\Documents\GitHub\FineRGRWinforms\FineRGRWinforms\bin\Debug\FineRGRWinforms.exe
+C:\Users\astrumwolfe\Documents\GitHub\FineRGRWinforms\FineRGRWinforms\bin\Debug\FineRGRWinforms.pdb
+C:\Users\astrumwolfe\Documents\GitHub\FineRGRWinforms\FineRGRWinforms\obj\Debug\FineRGRWinforms.csprojResolveAssemblyReference.cache
+C:\Users\astrumwolfe\Documents\GitHub\FineRGRWinforms\FineRGRWinforms\obj\Debug\FineRGRWinforms.MainWindow.resources
+C:\Users\astrumwolfe\Documents\GitHub\FineRGRWinforms\FineRGRWinforms\obj\Debug\FineRGRWinforms.Properties.Resources.resources
+C:\Users\astrumwolfe\Documents\GitHub\FineRGRWinforms\FineRGRWinforms\obj\Debug\FineRGRWinforms.csproj.GenerateResource.Cache
+C:\Users\astrumwolfe\Documents\GitHub\FineRGRWinforms\FineRGRWinforms\obj\Debug\FineRGRWinforms.exe
+C:\Users\astrumwolfe\Documents\GitHub\FineRGRWinforms\FineRGRWinforms\obj\Debug\FineRGRWinforms.pdb
